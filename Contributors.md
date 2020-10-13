@@ -1,5 +1,6 @@
 # Contributors
- - Andrew Gao
+- Andrew Gao
+- boshi
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
 - [William Zhou](https://github.com/williamzhou8818)
 - [Bilal Maqsood](https://github.com/bilal9one)
